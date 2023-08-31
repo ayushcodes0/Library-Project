@@ -1,5 +1,6 @@
 
-/*You have to implement a library using java class library
+/*It is a question given by Harry 
+ * You have to implement a library using java class library
  * Methods: addBook(), issueBook(), returnBook(), showAvailableBook()
  * Properties: Array to store the available books,
  * Array to store the issued books
